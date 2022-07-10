@@ -1,0 +1,104 @@
+#title{
+  background-color: #FFC4C4;
+  font-family: 'Montserrat', sans-serif;
+  right: 0;
+}
+.navbar-brand{
+  font-size: 4rem;
+   font-family: 'Sacramento', cursive;
+}
+.nav-link{
+  color: #3B44F6;
+}
+li{
+  padding: 1% 8%;
+}
+a{
+  text-decoration: none;
+}
+nav{
+  padding: 2% 12%;
+  background-color: #9DD6DF;
+}
+.main-text{
+  text-align: center;
+  margin: 5% auto;
+  color: white;
+  line-height: 2;
+}
+h1{
+  font-weight: lighter;
+}
+.iphone{
+  width:75%;
+  height:50%;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom:15%;
+  border-radius: 10%;
+}
+.maintext{
+  padding: 1%;
+  margin: 6% 8%;
+  font-weight: bolder;
+  font-size: 3rem;
+  text-align: left;
+  padding: 1%;
+}
+.feature{
+  text-align: left;
+  padding: 17% 10%;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #9DD6DF;
+}
+
+.fet{
+  font-size: 1.2rem;
+  line-height: 2;
+  padding:6% 10% 4% 0;
+}
+h3{
+  font-size:1.7rem;
+}
+#testimonials{
+  text-align: center;
+  margin: 1% 30% 10% 30%;
+  line-height: 2;
+  width: 70%;
+  margin: auto;
+}
+
+h5{
+  text-align: center;
+  color: black;
+  position: absolute;
+  bottom: -150%;
+  width: 100%;
+}
+.review-div{
+  margin-top: 15%;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 30%;
+}
+h2{
+  text-align: center;
+}
+.current{
+  padding-right:20%;
+  padding-left: 20%;
+}
+.test-div{
+  padding-top: 5%;
+  background-color: #FFC4C4;
+  font-family: 'Montserrat', sans-serif;
+}
+.sponsers{
+  padding: 5%;
+  font-family: 'Montserrat', sans-serif;
+}
+#cta{
+  padding: 2%;
+    font-family: 'Montserrat', sans-serif; 
+}
